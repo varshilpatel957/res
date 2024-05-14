@@ -1,0 +1,56 @@
+.navbar {
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    margin: -1px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    z-index: 2;
+
+
+
+}
+
+body {
+    left: 0;
+}
+
+.nav {
+    color: lightgrey;
+    font-size: 50px;
+    text-decoration: none;
+
+    margin-left: 100px;
+
+
+
+}
+
+.nav:hover {
+    color: lightgoldenrodyellow;
+}
+
+.container {
+    background-color: rgb(31, 30, 30);
+    left: -7px;
+    width: 101%;
+    position: relative;
+    top: 38px;
+    height: 500vh;
+}
+
+.Objective {
+    background-color: lightgrey;
+
+    border: 10px solid lightgray;
+    border-radius: 10px;
+    color: black;
+    position: relative;
+    top: 30px;
+    margin: 20px;
+    padding: 10px;
+
+
+
+}
